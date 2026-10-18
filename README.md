@@ -1,3 +1,5 @@
+[dashboard (1).ipynb](https://github.com/user-attachments/files/33615561/dashboard.1.ipynb)
+[polar.ipynb](https://github.com/user-attachments/files/33615560/polar.ipynb)
 # ❄️ Polar Research Station: AI-Powered Microgrid Energy Management System
 
 An advanced, interactive microgrid energy-management and telemetry system designed for extreme polar environments (Arctic and Antarctic research stations). It leverages machine learning to forecast energy demand, optimizes renewable generation (solar/wind) against battery storage and diesel backups, and provides real-time decision support through an interactive Jupyter dashboard.
